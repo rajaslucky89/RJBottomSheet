@@ -65,6 +65,9 @@ bottomSheet.setHeaderTitle("Title")
 present(bottomSheet, animated: true)
 ```
 
+![rjbottomsheet_demo](https://github.com/user-attachments/assets/9e9ed021-c463-44eb-a128-ac9d116f1e56)
+
+
 ## 🧩 Supported Heights
 
 - .full
