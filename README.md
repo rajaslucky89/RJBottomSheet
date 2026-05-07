@@ -68,6 +68,11 @@ present(bottomSheet, animated: true)
 ![rjbottomsheet_demo](https://github.com/user-attachments/assets/9e9ed021-c463-44eb-a128-ac9d116f1e56)
 
 
+
+https://github.com/user-attachments/assets/f9b5fe00-1d22-4cd1-a8f2-b8d11b14db47
+
+
+
 ## 🧩 Supported Heights
 
 - .full
